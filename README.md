@@ -2,6 +2,8 @@
 
 ## Materiale didattico
 
+Gli studenti iscritti al corso di laurea possono usufruire della piattaforma [UniStudium](https://unistudium.unipg.it/)
+
 ## Struttura di questo repository
 
 Utilizare la cartella [Progetti](Progetti) per sottoporre a valutazione il vostro progetto d'esame.
