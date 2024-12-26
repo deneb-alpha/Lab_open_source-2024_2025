@@ -36,6 +36,11 @@ Below is a reference chart of climbing grade conversions between various systems
 
 ![grades](https://github.com/user-attachments/assets/0c73f4a4-6c70-4f5b-80d8-a913ba173561)
 
+## Contributing to the Raycast Community
+
+To ensure the extension meets the highest standards and integrates seamlessly with the Raycast ecosystem, I will follow the official [Raycast Developer Guide](https://developers.raycast.com/basics/getting-started). This guide provides the necessary tools and best practices to build and publish extensions, allowing me to contribute effectively to the community.
+
+
 ## Conclusion
 
 This Raycast extension combines my passion for climbing with open source development, aiming to contribute to the climbing community and the Raycast ecosystem. By streamlining grade conversion, it makes climbing-related tasks more efficient and enjoyable.
