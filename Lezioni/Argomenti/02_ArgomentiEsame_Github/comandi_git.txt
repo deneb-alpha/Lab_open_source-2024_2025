@@ -1,0 +1,23 @@
+Comandi GIT:
+
+nota: per usare comandi git su windows, instllare https://git-scm.com/
+
+git push <remoto> <branch>: Comando usato per caricare  le modifiche dal repository locale a un repository 
+remoto
+
+git log : Per visualizzare la cronologia dei commit in un repository
+
+git show <commit>  Per visualizzare dettagli su un commit specifico, un oggetto o una modifica.
+
+git tag <nome-tag> :Per creare dei tag che segnano punti specifici nella cronologia del repository
+
+git clone <url-repository> : Usato per copiare un repository esistente da un server remoto al tuo computer locale
+
+git fetch : Comando che scarica dal repository remoto tutte le informazioni aggiornate su branch, commit e tag senza modificarli o integrarli nel tuo lavoro locale. 
+			Serve per vedere cosa è cambiato nel repository remoto rispetto alla tua copia locale.
+			
+git remote add <nome> <URL_del_repository> : Utilizzato per collegare il tuo repository locale a un repository remoto, consentendo di fare push
+
+git branch <nome_del_branch> :Serve per gestire i branch nel tuo repository.
+
+git commit -m : permette di registrare le modifiche nel  progetto
