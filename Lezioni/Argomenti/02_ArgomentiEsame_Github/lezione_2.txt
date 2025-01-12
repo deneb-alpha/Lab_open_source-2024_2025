@@ -1,0 +1,67 @@
+RIEPILOGO AREE DI LAVORO
+
+Traduzioni: In questa area, i contributori si occupano di tradurre il software, la documentazione e le interfacce utente in diverse lingue, rendendo il progetto accessibile a un pubblico globale.
+
+Documentazione: I membri della community si occupano di creare manualistica e documenti di riferimento per gli utenti e per gli sviluppatori. 
+
+Quality Assurance (QA): in quest'area i contributori si occupano della  stabilità del software e dei bug, testando le funzionalità, dei problemi e verifica delle nuove modifiche.
+
+Sviluppo: Gli sviluppatori lavorano sul core del progetto, implementano nuove funzionalità, correggono bug e ottimizzano il software.
+
+Infrastruttura: I membri si occupano della gestione e manutenzione dei sistemi e degli strumenti necessari per lo sviluppo e la distribuzione del software. 
+				Questo include la gestione dei server e altri strumenti.
+
+DISCUSSIONI DEI PROGETTI OPEN SOURCE:
+
+UYUNI : https://www.uyuni-project.org : software sviluppato per la gestione e amminidtrazione di infrastrutture
+
+LIBREE OFFICE : https://it.libreoffice.org/ :  è una suite di produttività open source, che include applicazioni per elaborazione di testi, fogli di calcolo, presentazioni, database e editing di formule matematiche.
+										       È compatibile con i principali formati di file, come quelli di Microsoft Office ed ha la possibiltà ci di customizzare l'interfaccia d'uso
+											   
+DOCUMENT LIBERATION : https://www.documentliberation.org/  software che migliora la compatibilità e l'accessibilità dei formati di documenti proprietari
+
+
+GITHUB:
+
+GitHub è una piattaforma di hosting per il controllo di versione e la collaborazione, basata su Git, uno dei sistemi di versionamento più utilizzati. Consente agli sviluppatori di archiviare e gestire codice in repository
+Tracciare le modifiche al codice e lavorare su diverse versioni di un progetto.
+
+	l'Interfaccia: GitHub è una piattaforma di hosting per il controllo di versione e la collaborazione, basata su Git, uno dei sistemi di versionamento più utilizzati. Consente agli sviluppatori di archiviare e gestire codice in repository
+					Tracciare le modifiche al codice e lavorare su diverse versioni di un progetto.
+					
+	Il Repository: Un repository contiene tutti i file e le informazioni necessarie per un progetto. Può includere, Codice sorgente,Storico delle versioni:
+				   File di configurazione,  README.md, altre Risorse
+				   Branch: Diverse versioni del progetto, utili per sviluppo
+				   Commit: Modifiche salvate nel repository 
+				   Tag: Punti di riferimento specifici
+				   Un repository può essere ospitato localmente o su piattaforme come GitHub
+
+	MAIN: Ramo principale del progetto
+	BRANCH: Versione parallela al branch
+	COMMIT: Comando che registra la modifica nel repository
+	MERGE: Integra il branc nel main progect con le morifiche fatte.
+	ISSIUE: Sono utilizzate per tracciare problemi, bug, funzionalità da aggiungere, miglioramenti e discussioni relative al progetto.
+	
+CLONAZIONE DI UN REPOSITORY:
+
+	Generare la chiave SSH: Una chiave SSH è un metodo per autenticarsi con GitHub senza dover inserire ogni volta nome utente e password. 
+							Il computer genera una coppia di chiavi (una pubblica e una privata),  la chiave pubblica viene registrata su GitHub. 
+							Quando comunichi con GitHub, il computer utilizza la chiave privata per dimostrare l' autorizzazione
+							
+	Link documentazione: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#generating-a-new-ssh-key
+	
+	Dopo aver creato la chiave di può procedere con la clonazione del repository con l'interfaccia o bash: git clone git@github.com:example-user/my-project.git
+	
+AGGIUGNERE LA LICENZA A UN REPOSITORY: chiarisce i dirittti e restrizioni sull'uso del codice
+
+Link documentazione: https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository
+
+Dopo aver effetuato le modifche, si può eseguire il commit
+E' raccomandabile eseguire il comando git branch -vv git branch -vv prima di fare push sul repository remoto, per capire in quale branch si sta lavorando
+
+PuleRequest : Dopo aver effettuato il push sul proprio branch, si può creare una Pull Request, per richiedere di integrare delle modifiche dal branch alla main
+
+	vedi documentazioen: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
+
+
+	

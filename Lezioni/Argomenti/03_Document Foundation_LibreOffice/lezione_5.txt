@@ -1,0 +1,44 @@
+Lezione 5: Introdouzione e analisi di https://wiki.documentfoundation.org/QA
+
+Getting Started:
+
+Bugzilla: È il sistema di tracciamento dei bug utilizzato per segnalare e gestire i problemi nel software. Gli utenti possono registrarsi per segnalare bug, monitorare lo stato delle segnalazioni e contribuire alla loro risoluzione. 
+
+Easy Hacks: Questa sezione identifica compiti relativamente semplici che possono essere affrontati da nuovi contributori.
+
+Bug Hunting Sessions: Eventi organizzati in cui la comunità si riunisce per testare le versioni candidate del software, identificare bug e contribuire alla loro risoluzione. Queste sessioni sono fondamentali per garantire la stabilità delle nuove release. 
+
+QA Discussion: Per partecipare alle discussioni sulla qualità del software, è possibile unirsi al canale IRC #libreoffice-qa o alla mailing list.
+
+FAQs: per facilitare la comprensione e l'uso  di strumenti come Bugzilla e per migliorare il processo di QA all'interno della community open source
+
+BUG REPORT:  aiutano a rendere il processo di segnalazione dei bug più efficiente, facilitando la gestione e la risoluzione dei problemi nel software.
+
+SORTING: spiega come ordinare i bug su Bugzilla in base a vari criteri e assegnatario.
+
+LIBREOFFICE BUG TRACKING IN LINUX DISTRIBUTIONS:  riguarda come i bug di LibreOffice vengano gestiti e tracciati nelle distribuzioni Linux. 
+
+TESTING: RIguarda i vari tipi di test, come il testing funzionale, il testing di regressione e il testing automatico.
+Incoraggia la partecipazione della comunità nell'eseguire test su nuove funzionalità, segnalare problemi e testare su diverse piattaforme.
+
+LIBREOFFICE: LibreOffice è una suite di produttività open source, installabile sul sito https://www.libreoffice.org/ in diverse lingue
+
+BUGZILLA: Dopo aver installato github è importante avere un account Bugzilla: https://bugs.documentfoundation.org/
+un sistema di gestione dei bug della Document Foundation l'organizzazione che sviluppa LibreOffice.
+
+Nel Sito si possono:
+１)	Segnalare bug
+２)	monitorare bug essitenti
+３)	aggiornamenti e aggiungere commenti
+４)	comtribuire alla risoluzione di problemi
+
+Introduzione al Marketing Crash Course con Italo vignoli:TEMI TRATTATI: video disponibile su teams
+
+Percezione del software
+Importanza del marketing
+Fattori Critici
+Strategie
+Segmentazione di mercato e mercato di massa
+Innovazione
+Tecnici e Media
+Jacking

@@ -1,0 +1,43 @@
+Lezione 11: SOVRANITà DIGITALE E MODELLI DI BUSINESS OPEN SOURCE
+
+SOVRANITA' DIGITALE :  Rappresenta il principio di indipendenza e controllo autonomo nel mondo digitale, sia a livello nazionale che individuale. 
+Non si limita alla disponibilità e all'accesso al software, ma anche l'hardware, in particolare quest'ultima non viene  distribuita in modo diseguale dalle grandi organizzazioni a livello globale.
+Questo squilibrio limita l'accesso equo alle tecnologie.
+
+INTERNET:  Si basa su un'infrastruttura fisica globale composta da cavi sottomarini, reti terrestri e data center, se queste vengono interrotte o danneggiate, 
+si rischia di isolare delle regioni del mondo dell'accesso alla rete.
+
+SOFTWARE : Dipendere da un unico distributore comporta rischi , poiché un eventuale disservizio può interrompere l'accesso ai servizi essenziali.
+Inoltre, la mancanza di controllo sulle funzionalità e sulle modalità del servizio limita la capacità di adattarsi alle proprie esigenze.
+
+DATI: perdere il controllo sui propri dati personali indica la perdita della propria indipendenza digitale.
+
+DIVERSI MODELLI DI BUSINESS OPEN SOURCE: 
+
+１)	CONSULENZE: I consulenti offrono servizi alle persone e farsi pagare. (Modello valido) 
+
+2 ) PROPRIETARY PERIPHERY:
+si offre un software open source di base (open core), arricchito con estensioni proprietarie aggiuntive che non sono disponibili nella versione open source
+
+3) VENDITA DELLE LICENZE e di CD per il software (Simile al modello proprietario)
+
+4 ) ENTERPRISE DISTRO: Diverse edizioni stabili a pagamento del sistema operativo, oppure si acquista la versione open source
+
+5)ENTERPRISE BINARY: binari precompilati del software con vendita di licenze per accedere alle funzionalità
+
+6) SCARCITY OF CONFIDENCE: (modello funzionale per le grandi realtà),comprende una serie di attenzioni e investimenti importanti
+
+7)  VENDITA DI SERVIZI COMPLEMENTARI
+
+8)SUPPORTED FLOOS:  Le aziende supportano attivamente il software libero e open source offrendo servizi e supporto professionale
+
+9) DONAZIONI:  modello di business consigliato per grandi aziende
+
+10 ) COMODITA':  DIsponibilità dei codici binari a pagamento.
+
+11 ) SCARSITA, SETUP E DOCUMENTAZIONE': modello in cui il software e i binari sono reperibili, ma l'installazione è talemte complessa e richiedono supporto, 
+in questo caso a pagamento
+
+NOTA: Wine, (why is not en emulator) software realizzato per linux , per far girare applciativi di windows
+
+Lavoro chaive per un prodotto open source: lavorare sulla percezione del proprio brand. 

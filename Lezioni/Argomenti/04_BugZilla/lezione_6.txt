@@ -1,0 +1,24 @@
+Lezione 6: analisi del sito https://bugs.documentfoundation.org/ e risoluione di alcuni bug.
+
+E' il sistema di tracciamento dei bug per i progetti di LibreOffice. Gli utenti possono segnalare bug, inviare suggerimenti o miglioramenti, 
+monitorare lo stato di risoluzione dei problemi, e bug triage.
+
+bugtriage = categorizzare e assegnare priorità ai bug segnalati per determinare l'urgenza e la gravità. 
+
+In BugZilla è possibile visualizzare i vari status dei bug:
+
+１)	UNCONFIRMED: Il bug è stato segnalato, ma non è stato ancora verificato
+２)	CONFIRMED: Il bug è stato validato
+３)	IN_PROGRESS (o ASSIGNED):Il bug è stato preso in carico
+４)	RESOLVED: Il bug è stato risolto
+５)	FIXED: Il bug è stato corretto.
+６)	INVALID: Il bug  non è valido.
+７)	DUPLICATE: Il bug è un duplicato
+８)	WORKSFORME: Il bug non può essere riprodotto e sembra funzionare correttamente.
+９)	MOVED: Il bug è stato trasferito a un altro sistema di gestione.
+１０)	VERIFIED: La correzione è stata verificata
+１１)	CLOSED: Lo stato finale del bug.
+
+Alla pagina https://bugs.documentfoundation.org/show_bug.cgi  Viene utilizzato per visualizzare informazioni specifiche riguardanti un bug o un ticket,
+ inclusi dettagli come la descrizione, lo stato, le priorità, i commenti e gli aggiornamenti. 
+ Ogni bug segnalato ha un ID univoco, che permette agli sviluppatori e ai membri della comunità di monitorare il progresso e la risoluzione del problema. 

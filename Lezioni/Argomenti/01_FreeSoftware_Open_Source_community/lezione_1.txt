@@ -1,0 +1,68 @@
+LEZIONE 1 : INTRODUZIONE ALL'OPEN SOURCE
+
+Differenze tra Open source e free software:
+
+FREE SOFTWARE: Per Free Software si intende un tipo di software che garantisce agli utenti libertà fondamentali nell'uso,modifica e distribuzione. È un concetto del movimento del software libero ed è stato definito originariamente da Richard Stallman
+
+１)	 Libertà 0: Libertà di eseguire il programma per qualsiasi scopo
+２)	Libertà 1: Accesso al codice sorgente, Libertà di studiare come funziona il programma e di modificarlo per adattarlo alle proprie necessità
+３)	Libetà 2: Libertà di ridistribuire copie del programma
+４)	Libertà 3: Libertà di distribuire versioni modificate del programma, per consentire a tutta la comunità di beneficiare delle modifiche
+
+OPEN SOURCE: Il termine  Open Source indica il software il cui codice sorgente è reso pubblico e accessibile a chiunque per essere visualizzato, modificato e distribuito. Il concetto si basa sull'apertura, la trasparenza e la collaborazione.
+
+COSA CAMBIA? Descrivono la stessa categoria di software ma:
+
+Il FREE SOFTWARE è un movimento sociale
+L' OPEN SOURCE : è una metodologia di sviluppo
+
+Letura consigliata : http://www.catb.org/~esr/writings/cathedral-bazaar/
+
+COMMUNITY:
+
+Un appartamento è solo un luogo fisico. Alla fine diventa casa quando le persone respirano, amano, discutono, litigano, celebrano e condividono. 
+Allo stesso modo, un progetto open source alla fine diventa una vera comunità,quando i suoi collaboratori lo riempiono di passione e gioia.
+
+What is a community – Florian Effenberger, https://effenberger.org/en/files/2022-11-11-SFScon.pdf.
+
+Generalmente una community è un gruppo di persone con un'identità condivisa e interessi comuni con ruoli formali e informali
+
+Dieci pensieri sulla leadership della comunità:
+
+COOPERAZIONE: Una comunità si basa su fiducia, collaborazione e rispetto. La trasparenza crea fiducia, il rispetto per il tempo garantisce efficienza, e condividere obiettivi rafforza la responsabilità collettiva. 
+			  Le differenze arricchiscono il gruppo.
+			  
+IMPEGNO: Assumere un ruolo è il risultato di contributi e skills, e può comportare ad avere più lavoro
+
+VARIETA': Ognuno ha interessi diversi, quindi è importante sfruttare le competenze del gruppo e definire  le responsabilità per lavorare in modo efficace
+
+DELEGAZIONE : Concentrati invece su strategie e obiettivi a lungo termine
+
+RESPONSABILITA': La responsabilità è condivisa da tutti.
+
+SOCIAL: Essere in grado di interagire con la community
+
+DIVERSITA': La diversità di persone che lavorano al progetto lo rendono migliorela coordinazione è fondamentale quando si lavora ad un progetto, cercando di organizzare meeting che possano andare bene con la community
+
+COORDIANAZIONE: E' fondamentale quando si lavora ad un progetto, cercando di organizzare meeting che possano andare bene con la community
+
+FIDUCIA: Lavorando con una community internazionale non è facile lavorare con membri sconosciuti
+
+RICOMPENSA: Ti permette di crescere personalmente e offre vantaggi professionali
+
+CONFERENZE: Vengono stabilite conferenze per coinvolgere e gestire la community 
+
+CONTRIBUTORI: La politica e l'economia possono influire sui contributori, portando diverse problematiche
+
+TOOLING: Prestare attenzione alle piattaforme usate per comunicare con gli utenti della coùmunity
+
+TRADUZIONI: Altro aspetto da non sottovalutare sono le traduzioni, provare a tradurre documentazioni e slide per non tagliare nessun coùpomente 
+
+IMMAGINI: Video tutorial o immagini esplicative possono essere utili ai contributori 
+
+Regole per rivoluzionari:
+	
+	1) i contributorri lavorno al progetto quando vogliono
+	2) lavorano a quello che vogliono
+	3) altre persone possono essere rivoluzionarie
+	4) etrambi devono coesistere
