@@ -1,0 +1,18 @@
+Lezione 8:
+
+Anlisi delle aree di lavoro in https://wiki.documentfoundation.org/
+
+https://wiki.documentfoundation.org/Language, questa pagina offre informazioni sulle lingue supportate da LibreOffice, con dettagli sulla localizzazione, traduzioni disponibili e opzioni di configurazione.
+
+https://wiki.documentfoundation.org/QA/Bibisect, utilizzata per facilitare il lavoro di quality assurance  in LibreOffice. Bibisect è progettato per aiutare gli sviluppatori e  tester a individuare quando un bug è stato introdotto nel codice sorgente.
+
+Bibisect: un metodo per identificare rapidamente il commit specifico in cui un bug è apparso per la prima volta.
+I risultati del bisecting possono essere aggiunti come commenti ai bug in Bugzilla, aiutando gli sviluppatori a risolverli più rapidamente.
+Per i nuovi contributori alla QA: È un metodo intuitivo per iniziare a contribuire al progetto senza una conoscenza approfondita del codice sorgente
+
+１)	Test sul commit più vecchio:
+Avviare un'istanza di LibreOffice basata sul commit più vecchio nel repository Bibisect.Cerchi di replicare il bug.
+２)	Test sull'ultimo commit:
+avviare  LibreOffice sull'ultimo commit disponibile, anche qui verificsre se il bug si manifesta.
+３)	Esegui il bisecting per restringere il range:  git bisect start
+４)	Alla fine, Git identificherà il commit preciso che ha introdotto la regressione.

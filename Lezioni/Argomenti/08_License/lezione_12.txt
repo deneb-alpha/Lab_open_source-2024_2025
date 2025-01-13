@@ -1,0 +1,34 @@
+Lezione 12: Le Licenze
+
+ LICENZECREATIVE COMMONS : un insieme di licenze gratuite che permettono agli autori di condividere le proprie opere  stabilendo quali diritti 
+ vengono concessi agli altri utenti e in che modo queste opere possono essere utilizzate
+
+LINK: https://creativecommons.it/ 
+          https://creativecommons.org/
+NOTA: Le licenze non sono tutte uguali, Ogniuna ha un insieme di restrizioni e permessi che la rendono più adatta a determinati usi
+
+Opensource.org :  home page della Open Source Initiative , un'organizzazione no-profit che promuove l'adozione e l'uso di software open source. 
+				  Certifica le licenze open source e offre risorse per sviluppatori e aziende.
+				  
+LICENZE GPL: Le licenze GPL (General Public License) sono licenze open source sviluppate dalla Free Software Foundation per garantire che il software rilasciato
+rimanga libero e che gli utenti possano esercitare ii propri diritti di modifica, distribuzione e utilizzo.
+Ne esistono di diversi tipi: AGPL, LGPL...
+
+APACHE LICENSE 2.0 : https://www.apache.org/licenses/LICENSE-2.0.html
+E' una licenza open source sviluppata dalla Apache Software Foundation per regolamentare l'uso, la modifica e la distribuzione del software.
+
+https://www.gnu.org/licenses/license-recommendations.html offre linee guida per la scelta della licenza appropriata per il software.
+
+https://choosealicense.com/ :  questa pagina fornsice le linee guida di scelta della licenza per il proprio software
+
+https://interoperable-europe.ec.europa.eu/collection/eupl/solution/licensing-assistant/find-and-compare-software-licenses : questa  pagina Licensing Assistant 
+	  del progetto Interoperable Europe della Commissione Europea, è utile per aiutare gli utenti a trovare e confrontare le licenze software,  
+	  quando non si ha in mente la licenza da usare nel proprio porgetto
+
+https://open.umn.edu/opentextbooks/ : è un portale che ospita una raccolta di libri di testo open source  per l'uso gratuito. Possono essere scaricati,
+									  modificati e distribuiti.
+
+https://spdx.dev/: è il portale ufficiale per l'SPDX (Software Package Data Exchange), uno standard aperto per la gestione delle licenze software 
+				   e delle informazioni di proprietà intellettuale. L'SPDX fornisce un formato comune per descrivere le licenze software, le dichiarazioni di diritti e altre informazioni dei pacchetti software.
+				  
+				  per approfondire la parte di Software bill of Material : https://www.ntia.gov/

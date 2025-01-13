@@ -1,0 +1,29 @@
+Lezione 10: Lezione con Marta Andreoli sulla FreesoftwareFoundationEurope
+
+Cos'è un prodotto propetario? è un software o un prodotto il cui codice sorgente è detenuto e protetto da copyright, e il suo utilizzo, 
+modifica e ridistribuzione sono regolati da licenze restrittive.
+
+L'open source promuove il concetto opposto: trasparenza, libertà di utilizzo, modifica e condivisione. Le differenze principali sono:
+
+Open source: Il codice sorgente è pubblico, disponibile per chiunque e modificabile
+Proprietario: Il codice sorgente è chiuso e inaccessibile, e anche la redistribuzione è limitata
+
+L'open source è nato come una risposta al modello proprietario, proponendo un'alternativa basata su libertà e collaborazione. 
+
+
+FreesoftwareFoundation: Contribuisce alla divulgazione del,a consapevolezza pubblica, promozione e supporto legale
+collabora con volontari e progetti sul territorio italiano, come per esempio il router libero.
+
+Ha come obiettivi : l'installazione di software multipiattaforma no vendor lock-in e  il controllo sui propri dati utente
+
+Cos è il Copyleft: è un tipo di licenza per il copyright che garantisce che il software o un prodotto rimangano sempre libere e aperte.
+chiunque può utilizzare, modificare e distribuire l'opera, ma deve farlo sotto la stessa licenza
+
+Licenza: il free software dipende dalle licenze per autorizzare la condivisione.
+
+Reuse: https://reuse.software/tutorial/ ,  è un software sviluppato dalla Free Software Foundation Europe (FSFE) per facilitare la gestione delle licenze 
+	   nei progetti software.  
+	   Aiuta sviluppatori e organizzazioni a rendere i loro progetti conformi alle migliori pratiche in materia di licenze e diritti d'autore.
+
+
+
