@@ -1,5 +1,7 @@
 # Open Source Lab: Raycast Extension for Climbing Grade Conversion
 
+https://github.com/MrTartuf0/climbing-grade-converter
+
 ## What is Raycast?
 
 Raycast is a productivity tool designed to improve your workflow by providing a quick and efficient command palette. Think of it as an alternative to Spotlight on macOS, but with powerful integrations and customizable extensions. It allows users to perform actions like launching apps, managing tasks, and running scripts, all from a single keyboard shortcut. 
